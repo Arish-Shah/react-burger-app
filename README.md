@@ -9,7 +9,7 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 Checkout this repo, install dependencies, then start the gulp process with the following:
 
 ```
-> git clone https://github.com/arizh/react-burger-app.git
+> git clone https://github.com/Arish-Shah/react-burger-app.git
 > cd react-burger-app
 > npm install
 > npm start
